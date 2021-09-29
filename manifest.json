@@ -1,0 +1,16 @@
+{
+	"name": "Fun Times",
+	"description": "A fun way to learn your times tables!",
+	"start_url": "index.html",
+	"scope":"/",
+	"display": "fullscreen",
+	"icons": [
+	{
+		"src":"app_icon.jpg",
+		"type":"image/jpg",
+		"sizes":"192x192"
+	},
+	],
+	"theme_color": "#ffffff",
+	"background_color": "#ffffff"
+}
